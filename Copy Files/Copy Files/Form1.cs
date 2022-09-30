@@ -16,12 +16,12 @@ namespace Copy_Files
         private async void button1_Click(object sender, EventArgs e)
         {
           //  var sourceDirectoryPath = Path.Combine(Environment.CurrentDirectory, @"C:\Users\admin\Documents\BOOKS");
-            var sourceDirectoryPath = Path.Combine(Environment.CurrentDirectory, @"C:\localVScache\");
+            var sourceDirectoryPath = Path.Combine(Environment.CurrentDirectory, @"G:\MOVIES\JERMAINE");
             Console.WriteLine(Environment.CurrentDirectory);
             Console.WriteLine(sourceDirectoryPath);
             var sourceDirectoryInfo = new DirectoryInfo(sourceDirectoryPath);
 
-            var targetDirectoryPath = Path.Combine(Environment.CurrentDirectory, @"D:\Visual Studio 2022\");
+            var targetDirectoryPath = Path.Combine(Environment.CurrentDirectory, @"E:\JOSE\");
             var targetDirectoryInfo = new DirectoryInfo(targetDirectoryPath);
 
             Console.WriteLine(targetDirectoryPath);

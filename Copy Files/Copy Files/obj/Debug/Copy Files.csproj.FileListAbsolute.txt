@@ -20,3 +20,14 @@ C:\Users\admin\Documents\C# Projects\FORM Apps\Copy Files\Copy Files\obj\Debug\C
 C:\Users\admin\Documents\C# Projects\FORM Apps\Copy Files\Copy Files\obj\Debug\Copy Files.csproj.CoreCompileInputs.cache
 C:\Users\admin\Documents\C# Projects\FORM Apps\Copy Files\Copy Files\obj\Debug\Copy Files.exe
 C:\Users\admin\Documents\C# Projects\FORM Apps\Copy Files\Copy Files\obj\Debug\Copy Files.pdb
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\bin\Debug\Copy Files.exe.config
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\bin\Debug\Copy Files.exe
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\bin\Debug\Copy Files.pdb
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\obj\Debug\Copy Files.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\obj\Debug\Copy Files.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\obj\Debug\Copy_Files.Form1.resources
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\obj\Debug\Copy_Files.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\obj\Debug\Copy Files.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\obj\Debug\Copy Files.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\obj\Debug\Copy Files.exe
+C:\Users\admin\Documents\GitHub\csharp\Copy Files\Copy Files\obj\Debug\Copy Files.pdb
