@@ -1,0 +1,15 @@
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\bin\Debug\net6.0\SimpleTCP File Server.exe
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\bin\Debug\net6.0\SimpleTCP File Server.deps.json
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\bin\Debug\net6.0\SimpleTCP File Server.runtimeconfig.json
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\bin\Debug\net6.0\SimpleTCP File Server.dll
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\bin\Debug\net6.0\SimpleTCP File Server.pdb
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\SimpleTCP File Server.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\SimpleTCP File Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\SimpleTCP File Server.AssemblyInfoInputs.cache
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\SimpleTCP File Server.AssemblyInfo.cs
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\SimpleTCP File Server.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\SimpleTCP File Server.dll
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\refint\SimpleTCP File Server.dll
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\SimpleTCP File Server.pdb
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\SimpleTCP File Server.genruntimeconfig.cache
+C:\Users\jose\Documents\C#\Console\SimpleTCP File Server\obj\Debug\net6.0\ref\SimpleTCP File Server.dll

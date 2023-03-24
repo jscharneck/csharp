@@ -1,0 +1,15 @@
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\bin\Debug\net6.0\TCP_UDP Sockets App.exe
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\bin\Debug\net6.0\TCP_UDP Sockets App.deps.json
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\bin\Debug\net6.0\TCP_UDP Sockets App.runtimeconfig.json
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\bin\Debug\net6.0\TCP_UDP Sockets App.dll
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\bin\Debug\net6.0\TCP_UDP Sockets App.pdb
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\TCP_UDP Sockets App.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\TCP_UDP Sockets App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\TCP_UDP Sockets App.AssemblyInfoInputs.cache
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\TCP_UDP Sockets App.AssemblyInfo.cs
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\TCP_UDP Sockets App.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\TCP_UDP Sockets App.dll
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\refint\TCP_UDP Sockets App.dll
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\TCP_UDP Sockets App.pdb
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\TCP_UDP Sockets App.genruntimeconfig.cache
+C:\Users\jose\Documents\C#\Console\TCP_UDP Sockets App\obj\Debug\net6.0\ref\TCP_UDP Sockets App.dll

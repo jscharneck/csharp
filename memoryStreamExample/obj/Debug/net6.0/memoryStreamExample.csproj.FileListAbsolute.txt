@@ -1,0 +1,15 @@
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\bin\Debug\net6.0\memoryStreamExample.exe
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\bin\Debug\net6.0\memoryStreamExample.deps.json
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\bin\Debug\net6.0\memoryStreamExample.runtimeconfig.json
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\bin\Debug\net6.0\memoryStreamExample.dll
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\bin\Debug\net6.0\memoryStreamExample.pdb
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\memoryStreamExample.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\memoryStreamExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\memoryStreamExample.AssemblyInfoInputs.cache
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\memoryStreamExample.AssemblyInfo.cs
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\memoryStreamExample.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\memoryStreamExample.dll
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\refint\memoryStreamExample.dll
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\memoryStreamExample.pdb
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\memoryStreamExample.genruntimeconfig.cache
+C:\Users\jose\Documents\GitHub\csharp\memoryStreamExample\obj\Debug\net6.0\ref\memoryStreamExample.dll
