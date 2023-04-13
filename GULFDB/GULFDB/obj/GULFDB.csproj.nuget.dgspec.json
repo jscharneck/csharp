@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\C#\\Console Apps\\GULFDB\\GULFDB\\GULFDB.csproj": {}
+    "C:\\Users\\jose\\Documents\\GitHub\\csharp\\GULFDB\\GULFDB\\GULFDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\C#\\Console Apps\\GULFDB\\GULFDB\\GULFDB.csproj": {
+    "C:\\Users\\jose\\Documents\\GitHub\\csharp\\GULFDB\\GULFDB\\GULFDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\C#\\Console Apps\\GULFDB\\GULFDB\\GULFDB.csproj",
+        "projectUniqueName": "C:\\Users\\jose\\Documents\\GitHub\\csharp\\GULFDB\\GULFDB\\GULFDB.csproj",
         "projectName": "GULFDB",
-        "projectPath": "C:\\Users\\admin\\Documents\\C#\\Console Apps\\GULFDB\\GULFDB\\GULFDB.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\C#\\Console Apps\\GULFDB\\GULFDB\\obj\\",
+        "projectPath": "C:\\Users\\jose\\Documents\\GitHub\\csharp\\GULFDB\\GULFDB\\GULFDB.csproj",
+        "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose\\Documents\\GitHub\\csharp\\GULFDB\\GULFDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -28,7 +30,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/v3/index.json": {}
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "net7.0": {
@@ -91,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
